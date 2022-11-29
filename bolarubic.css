@@ -1,0 +1,124 @@
+.blu{color: blue;
+}
+.red{color: red;
+}
+.grn{color: green}
+
+.per8{
+  perspective: 800px;
+}
+
+.cube2 {
+	font-size: 32px;
+  width: 320px;
+  margin: 0.5em auto;
+  transform-style: preserve-3d;
+  transform: rotateX(-45deg) rotateY(35deg);
+  display: no4ne;
+  perspec5tive: 550px;
+  transform-origin: 30% 90%;
+}
+
+.rxt,
+.ryt,
+.rzt,
+.ttp{
+  position: absolute;
+  width: 5em;
+  height: 5em;
+  background: rgba(100,100,100,0.5);
+ /* background-color: transparent;*/
+  border: 1px solid black;
+  text-align: center;
+  line-height: 1em;
+  border-radius: 50%;
+  display: non4e;
+}
+
+
+.ttp{display: no4ne}
+.rxt{display: none}
+.ryt{display: none}
+.rzt{display: no6ne}
+
+
+
+
+
+.rxt45{transform: rotateX(45deg) translateZ(5em);}
+.rxt90{transform: rotateX(90deg) translateZ(5em);}
+.rxt135{transform: rotateX(135deg) translateZ(5em);}
+.rxt180{transform: rotateX(180deg) translateZ(5em);}
+.rxt225{transform: rotateX(225deg) translateZ(5em);}
+.rxt270{transform: rotateX(270deg) translateZ(5em);}
+.rxt315{transform: rotateX(315deg) translateZ(5em);}
+.rxt360{transform: rotateX(360deg) translateZ(5em);}
+
+.ryt45{transform: rotateY(45deg) translateZ(5em);}
+.ryt90{transform: rotateY(90deg) translateZ(5em);}
+.ryt135{transform: rotateY(135deg) translateZ(5em);}
+.ryt180{transform: rotateY(180deg) translateZ(5em);}
+.ryt225{transform: rotateY(225deg) translateZ(5em);}
+.ryt270{transform: rotateY(270deg) translateZ(5em);}
+.ryt315{transform: rotateY(315deg) translateZ(5em);}
+.ryt360{transform: rotateY(360deg) translateZ(5em);}
+
+.rzt45{transform: rotateZ(45deg) translateZ(5em);}		
+.rzt90{transform: rotateZ(90deg) translateZ(5em);}		
+.rzt135{transform: rotateZ(135deg) translateZ(5em);}		
+.rzt180{transform: rotateZ(180deg) translateZ(5em);}		
+.rzt225{transform: rotateZ(225deg) translateZ(5em);}		
+.rzt270{transform: rotateZ(270deg) translateZ(5em);}		
+.rzt315{transform: rotateZ(315deg) translateZ(5em);}		
+.rzt360{transform: rotateZ(360deg) translateZ(5em);}		
+
+
+.ttp1 
+{transform: rotateX(90deg) rotateY(135deg) translateZ(5em);}
+.ttp2 
+{transform: rotateX(90deg) rotateY(-45deg) translateZ(5em);}
+.ttp3
+{transform: rotateX(90deg) rotateY(45deg) translateZ(5em);}
+.ttp4
+{transform: rotateX(-90deg) rotateY(-45deg) translateZ(5em);}
+
+
+.new1{transform: rotateX(45deg) rotateY(-135deg) translateZ(5em);}
+.new2{transform: rotateX(45deg) rotateY(135deg) translateZ(5em);}
+.new3{transform: rotateX(45deg) rotateY(45deg) translateZ(5em);}
+.new4{transform: rotateX(45deg) rotateY(-45deg) translateZ(5em);}
+.new5{transform: rotateX(-45deg) rotateY(-135deg) translateZ(5em);}
+.new6{transform: rotateX(-45deg) rotateY(135deg) translateZ(5em);}
+.new7{transform: rotateX(-45deg) rotateY(45deg) translateZ(5em);}
+.new8{transform: rotateX(135deg) rotateY(225deg) translateZ(5em);}
+
+
+
+
+.rxt-45{transform: rotateX(-45deg) translateZ(5em);}
+.rxt-90{transform: rotateX(-90deg) translateZ(5em);}
+.rxt-135{transform: rotateX(-135deg) translateZ(5em);}
+.rxt-180{transform: rotateX(-180deg) translateZ(5em);}
+.rxt-225{transform: rotateX(-225deg) translateZ(5em);}
+.rxt-270{transform: rotateX(-270deg) translateZ(5em);}
+.rxt-315{transform: rotateX(-315deg) translateZ(5em);}
+.rxt-360{transform: rotateX(-360deg) translateZ(5em);}
+
+.ryt-45{transform: rotateY(-45deg) translateZ(5em);}
+.ryt-90{transform: rotateY(-90deg) translateZ(5em);}
+.ryt-135{transform: rotateY(-135deg) translateZ(5em);}
+.ryt-180{transform: rotateY(-180deg) translateZ(5em);}
+.ryt-225{transform: rotateY(-225deg) translateZ(5em);}
+.ryt-270{transform: rotateY(-270deg) translateZ(5em);}
+.ryt-315{transform: rotateY(-315deg) translateZ(5em);}
+.ryt-360{transform: rotateY(-360deg) translateZ(5em);}
+
+.rzt-45{transform: rotateZ(-45deg) translateZ(5em);}
+.rzt-90{transform: rotateZ(-90deg) translateZ(5em);}
+.rzt-135{transform: rotateZ(-135deg) translateZ(5em);}
+.rzt-180{transform: rotateZ(-180deg) translateZ(5em);}
+.rzt-225{transform: rotateZ(-225deg) translateZ(5em);}
+.rzt-270{transform: rotateZ(-270deg) translateZ(5em);}
+.rzt-315{transform: rotateZ(-315deg) translateZ(5em);}
+.rzt-360{transform: rotateZ(-360deg) translateZ(5em);}
+
